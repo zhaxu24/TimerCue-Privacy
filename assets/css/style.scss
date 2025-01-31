@@ -1,0 +1,71 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+  --theme-primary: #4A90E2;
+  --theme-secondary: #F5F5F5;
+  --theme-accent: #FF9500;
+  --theme-background: #F8F9FA;
+  --theme-card-background: #FFFFFF;
+  --theme-text: #2C3E50;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --theme-background: #1C1C1E;
+    --theme-card-background: #2C2C2E;
+    --theme-text: #FFFFFF;
+  }
+}
+
+body {
+  background-color: var(--theme-background);
+  color: var(--theme-text);
+}
+
+.wrapper {
+  background-color: var(--theme-card-background);
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+h1, h2, h3 {
+  color: var(--theme-primary);
+}
+
+a {
+  color: var(--theme-primary);
+  &:hover {
+    color: var(--theme-accent);
+  }
+}
+
+.language-selector {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px 0;
+  
+  a {
+    padding: 10px 20px;
+    background-color: var(--theme-primary);
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    
+    &:hover {
+      background-color: var(--theme-accent);
+    }
+  }
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px;
+  border-top: 1px solid var(--theme-secondary);
+}
