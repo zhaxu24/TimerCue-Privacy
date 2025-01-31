@@ -1,6 +1,8 @@
-     markdown: GFM
-     theme: jekyll-theme-cayman
-     plugins:
-       - jekyll-relative-links
-     relative_links:
-       enabled: true
+markdown: GFM
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+title: WorkTimer Privacy Policy & Terms of Use
+description: Privacy Policy and Terms of Use for WorkTimer App
