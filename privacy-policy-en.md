@@ -138,4 +138,6 @@ We collect the following subscription-related information:
 ### 7.3 Subscription Management
 - You can manage or cancel your subscription at any time in the App Store
 - Subscription status changes are synchronized in real-time to the app
-- We will notify you before your subscription expires 
+- We will notify you before your subscription expires
+
+[← Back to Language Selection](index.md)
