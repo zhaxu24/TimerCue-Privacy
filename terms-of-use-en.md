@@ -126,4 +126,6 @@ You agree to use the App in compliance with:
 ## 9. Contact
 
 If you have any questions about these Terms, please contact us at:
-- Email: apps_service@icloud.com 
+- Email: apps_service@icloud.com
+
+[← Back to Language Selection](index.md)
