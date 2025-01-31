@@ -138,4 +138,6 @@ Wir erfassen die folgenden abonnementbezogenen Informationen:
 ### 7.3 Abonnementverwaltung
 - Sie können Ihr Abonnement jederzeit im App Store verwalten oder kündigen
 - Änderungen des Abonnementstatus werden in Echtzeit mit der App synchronisiert
-- Wir benachrichtigen Sie vor Ablauf Ihres Abonnements 
+- Wir benachrichtigen Sie vor Ablauf Ihres Abonnements
+
+[← Back to Language Selection](index.md)
