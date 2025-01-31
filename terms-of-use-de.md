@@ -126,4 +126,6 @@ Sie verpflichten sich, die App in Übereinstimmung mit folgenden Vorgaben zu nut
 ## 9. Kontakt
 
 Bei Fragen zu diesen Nutzungsbedingungen kontaktieren Sie uns bitte unter:
-- E-Mail: apps_service@icloud.com 
+- E-Mail: apps_service@icloud.com
+
+[← Back to Language Selection](index.md)
