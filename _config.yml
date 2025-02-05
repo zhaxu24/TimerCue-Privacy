@@ -4,5 +4,5 @@ plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
-title: WorkTimer Privacy Policy & Terms of Use
-description: Privacy Policy and Terms of Use for WorkTimer App
+title: TimerCue Privacy Policy & Terms of Use
+description: Privacy Policy and Terms of Use for TimerCue App
