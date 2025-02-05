@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to WorkTimer ("the App"). By downloading, installing, or using the App, you agree to be bound by these Terms of Use ("Terms"). Please read these Terms carefully before using the App.
+Welcome to TimerCue ("the App"). By downloading, installing, or using the App, you agree to be bound by these Terms of Use ("Terms"). Please read these Terms carefully before using the App.
 
 ## 2. License and Usage Rights
 
