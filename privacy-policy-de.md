@@ -4,11 +4,11 @@
 
 ## Einführung
 
-WorkTimer ist eine datenschutzorientierte, offline Zeiterfassungs-Anwendung. Diese Datenschutzerklärung erläutert unseren Ansatz zum Datenschutz.
+TimerCue ist eine datenschutzorientierte, offline Zeiterfassungs-Anwendung. Diese Datenschutzerklärung erläutert unseren Ansatz zum Datenschutz.
 
 ## Unser Datenschutzversprechen
 
-WorkTimer wurde entwickelt, um vollständig offline und mit Fokus auf Datenschutz zu funktionieren. Wir haben die App bewusst so konzipiert, dass sie:
+TimerCue wurde entwickelt, um vollständig offline und mit Fokus auf Datenschutz zu funktionieren. Wir haben die App bewusst so konzipiert, dass sie:
 - Alle Daten ausschließlich lokal auf Ihrem Gerät speichert
 - Vollständig offline funktioniert
 - Keine Daten sammelt oder überträgt
