@@ -1,4 +1,4 @@
-# WorkTimer Privacy Policy & Terms of Use
+# TimerCue Privacy Policy & Terms of Use
 
 Please select your language / Bitte wählen Sie Ihre Sprache / 请选择语言：
 
