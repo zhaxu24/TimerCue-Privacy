@@ -4,11 +4,11 @@
 
 ## Introduction
 
-WorkTimer is a privacy-focused, offline time tracking application. This Privacy Policy explains our approach to data handling and privacy protection.
+TimerCue is a privacy-focused, offline time tracking application. This Privacy Policy explains our approach to data handling and privacy protection.
 
 ## Our Privacy Commitment
 
-WorkTimer is designed to be completely offline and privacy-first. We have intentionally designed the app to:
+TimerCue is designed to be completely offline and privacy-first. We have intentionally designed the app to:
 - Store all data locally on your device only
 - Operate completely offline
 - Not collect or transmit any data
