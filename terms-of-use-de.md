@@ -4,7 +4,7 @@
 
 ## 1. Einführung
 
-Willkommen bei WorkTimer ("die App"). Durch das Herunterladen, Installieren oder Nutzen der App stimmen Sie diesen Nutzungsbedingungen ("Bedingungen") zu. Bitte lesen Sie diese Bedingungen sorgfältig durch, bevor Sie die App nutzen.
+Willkommen bei TimerCue ("die App"). Durch das Herunterladen, Installieren oder Nutzen der App stimmen Sie diesen Nutzungsbedingungen ("Bedingungen") zu. Bitte lesen Sie diese Bedingungen sorgfältig durch, bevor Sie die App nutzen.
 
 ## 2. Lizenz und Nutzungsrechte
 
